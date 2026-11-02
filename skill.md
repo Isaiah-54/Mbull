@@ -20,7 +20,7 @@ Status: DEPLOYED and verified on-chain 2026-11-02. Contract
 block 131201360, creator and owner 0x9F3b8528bc2EbD30C49A6E809DE3E90f2C236df2.
 Mint is open, launched is false. Source verification on BscScan is pending;
 do not claim it is verified until BscScan shows it. This token is unaudited.
-Website: https://muse.ai/s/megabull-xzr6df4k2kob/RqjK9XQetLoF3fY8ueVGOQRs7241xSDhDEGetajfbxQ
+Website: https://mbull-two.vercel.app/
 
 ## Token facts (confirmed on-chain at deploy)
 - Name: MegaBull, Symbol: MBULL, Decimals: 18
