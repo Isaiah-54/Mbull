@@ -1,0 +1,15 @@
+# Never send secrets to GitHub
+.env
+*.env
+*.env.*
+.env.*
+**/.env
+**/*.env
+credentials*
+*secret*
+*.pem
+*.key
+id_rsa*
+gas-wallet.json
+**/gas-wallet.json
+node_modules/
